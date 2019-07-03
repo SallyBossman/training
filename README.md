@@ -1,2 +1,2 @@
 # training
-training repo
+training repo for QA
